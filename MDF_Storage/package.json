@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cyanidefire.github.io/Demanu_MDF",
+  "homepage": "http://cyanidefire.github.io/Demanu_MDF",
   "scripts": {
     "gh-pages-build": "vite build",
     "gh-pages-deploy": "gh-pages -d dist",
